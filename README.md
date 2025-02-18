@@ -21,5 +21,8 @@
 ### ⚡ Why Use This?  
 Tired of manual fishing? Let this bot handle it for you while you focus on other tasks or grind in-game with ease.  
 
-👾 **Stay ahead – automate your fishing now!**  
+👾 **Stay ahead – automate your fishing now!**
+  
 https://discord.gg/WqqUygxR
+
+https://shellpy.sell.app/
