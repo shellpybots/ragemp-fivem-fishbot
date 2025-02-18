@@ -17,7 +17,7 @@
 ![Fishbot UI](https://i.imgur.com/ckUJyf0.png)  
 
 ### 🎥 Demo Video  
-[![Watch the video](https://i.imgur.com/your-thumbnail.jpg)](https://vimeo.com/1057840236)
+<iframe src="https://player.vimeo.com/video/1057840236" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### ⚡ Why Use This?  
 Tired of manual fishing? Let this bot handle it for you while you focus on other tasks or grind in-game with ease.  
